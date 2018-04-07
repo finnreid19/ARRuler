@@ -1,15 +1,7 @@
-//
-//  testing1212Tests.swift
-//  testing1212Tests
-//
-//  Created by Finn Reid on 2/8/18.
-//  Copyright © 2018 Finn Reid. All rights reserved.
-//
-
 import XCTest
-@testable import testing1212
+@testable import ARRuler
 
-class testing1212Tests: XCTestCase {
+class ARRulerTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

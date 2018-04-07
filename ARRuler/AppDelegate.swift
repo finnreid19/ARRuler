@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  testing1212
-//
-//  Created by Finn Reid on 2/8/18.
-//  Copyright © 2018 Finn Reid. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain

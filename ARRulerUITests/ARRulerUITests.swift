@@ -1,14 +1,6 @@
-//
-//  testing1212UITests.swift
-//  testing1212UITests
-//
-//  Created by Finn Reid on 2/8/18.
-//  Copyright © 2018 Finn Reid. All rights reserved.
-//
-
 import XCTest
 
-class testing1212UITests: XCTestCase {
+class ARRulerUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
